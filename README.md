@@ -3,7 +3,7 @@
 ### Objetivo
 
 Explorar a linguagem JavaScrip desenvolvendo um jogo clássico aplicando lógica de programação.
-Construir elementos sólidos na interface de usuário, atricuir comandos, efeito de colisão, marcação de pontos e efeitos sonoros.
+Construir elementos sólidos, atribuir comandos, efeito de colisão, marcação de pontos e efeitos sonoros.
 Desenvolver boas praticas de programação.
 
 ### Instruções do jogo
